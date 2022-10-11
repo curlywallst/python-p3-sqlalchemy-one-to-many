@@ -9,6 +9,8 @@ alembic = "*"
 faker = "*"
 ipdb = "*"
 pytest = "*"
+importlib-resources = "*"
+flask-sqlalchemy = "==2.5.1"
 
 [requires]
 python_version = "3.8.13"
